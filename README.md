@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links :link:
 
-<!-- [Solution in Frontend Mentor]() 👈 -->
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-nesting-9Vmj28MQQs) 👈
 
 [Live site URL here](https://mendezpvi.github.io/fem-nft-preview-card-component) 👈
 
